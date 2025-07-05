@@ -4,12 +4,14 @@
   "description": "Building Project which makes the user enabled to list or delete their products.",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon Backend/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nandini3008/Mern-Website.git"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -20,7 +22,9 @@
   "dependencies": {
     "dotenv": "^17.0.1",
     "express": "^5.1.0",
-    "mongoose": "^8.16.1",
+    "mongoose": "^8.16.1"
+  },
+  "devDependencies": {
     "nodemon": "^3.1.10"
   }
 }
