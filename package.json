@@ -1,0 +1,20 @@
+{
+  "name": "mern-website",
+  "version": "1.0.0",
+  "description": "Building Project which makes the user enabled to list or delete their products.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nandini3008/Mern-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nandini3008/Mern-Website/issues"
+  },
+  "homepage": "https://github.com/Nandini3008/Mern-Website#readme"
+}
